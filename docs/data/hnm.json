@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -8,6 +9,7 @@
     "name": "group_name",
     "parent": 1
   },
+
   {
     "id": 3,
     "name": "Ladieswear",
@@ -16,26 +18,74 @@
   {
     "id": 4,
     "name": "Baby/Children",
-    "parent": 2,
-    "size": 3938
+    "parent": 2
   },
   {
     "id": 5,
     "name": "Menswear",
-    "parent": 2,
-    "size": 3812
+    "parent": 2
   },
-  {
+   {
     "id": 6,
     "name": "Sport",
-    "parent": 2,
-    "size": 6714
+    "parent": 2
   },
-  {
+ {
     "id": 7,
     "name": "Divided",
-    "parent": 2,
-    "size": 743
+    "parent": 2
+  },
+  {
+    "id": 8,
+    "name": "Ladieswear", 
+    "parent": 3
+  },
+ {
+    "id": 9,
+    "name": "Lingeries/Tights",
+    "parent": 3
+  },
+  {
+    "id": 10,
+    "name": "Ladies Accessories",
+    "parent": 3
+  },
+  {
+    "id": 11,
+    "name": "Baby Sizes 50-98", 
+    "parent": 4
+  },
+ {
+    "id": 12,
+    "name": "Children Sizes 92-140",
+    "parent": 4
+  },
+  {
+    "id": 13,
+    "name": "Children Sizes 134-170",
+    "parent": 4
+  },
+  {
+    "id": 14,
+    "name": "Children Accessories, Swimwear",
+    "parent": 4
+  },
+  {
+    "id": 15,
+    "name": "Menswear",
+    "parent": 5
+  },
+  {
+    "id": 16,
+    "name": "Sport",
+    "parent": 6
+  },
+  {
+    "id": 17,
+    "name": "Divided",
+    "parent": 7
   }
-  ]
- 
+
+
+
+]
