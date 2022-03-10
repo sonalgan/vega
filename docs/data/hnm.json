@@ -15,25 +15,25 @@
   },
   {
     "id": 4,
-    "name": 'Baby/Children',
+    "name": "Baby/Children",
     "parent": 2,
     "size": 3938
   },
   {
     "id": 5,
-    "name": 'Menswear',
+    "name": "Menswear",
     "parent": 2,
     "size": 3812
   },
   {
     "id": 6,
-    "name": 'Sport',
+    "name": "Sport",
     "parent": 2,
     "size": 6714
   },
   {
     "id": 7,
-    "name": 'Divided',
+    "name": "Divided",
     "parent": 2,
     "size": 743
   }
