@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "h&m"
+  },
+  {
+    "id": 2,
+    "name": "group_name",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Ladieswear",
+    "parent": 2
+  },
+  {
+    "id": 4,
+    "name": 'Baby/Children',
+    "parent": 2,
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": 'Menswear',
+    "parent": 2,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": 'Sport',
+    "parent": 2,
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": 'Divided',
+    "parent": 2,
+    "size": 743
+  }
+  ]
+ 
